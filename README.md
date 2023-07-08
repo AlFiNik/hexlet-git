@@ -1,2 +1,1 @@
-no code - no nothin interesting
-experiment with amend
+Hello, Hexlet! How are you?
